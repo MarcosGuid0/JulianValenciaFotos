@@ -1,0 +1,8 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1; /* Hace que el main ocupe todo el espacio disponible */
+    padding-top: 60px; /* Mantiene espacio para la navbar */
+  }
